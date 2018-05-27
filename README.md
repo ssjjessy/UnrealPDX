@@ -35,7 +35,9 @@ Portland Unreal Engine 4 Developers groups collection of resources
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 
-## Useful Articles
+## Useful Articles/Links
+* Dan's Collection of Youtube UE4 Tutorials
+  * https://www.youtube.com/playlist?list=PLVXPfek87Vq-lBdATls2ziUgkwuqrvp1I
 * Visibility Culling
   * http://timhobsonue4.snappages.com/culling-visibilityculling.htm
 * Lightmaps "Bleeding"
