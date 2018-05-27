@@ -32,3 +32,11 @@ Portland Unreal Engine 4 Developers groups collection of resources
                                ))))))))\+=++++=</()))))((
                                      )))()))))))(((
     
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+## Useful Articles
+* Visibility Culling
+  * http://timhobsonue4.snappages.com/culling-visibilityculling.htm
+* Lightmaps "Bleeding"
+  * http://www.worldofleveldesign.com/categories/udk/udk-lightmaps-03-how-to-fix-light-shadow-lightmap-bleeds-and-seams.php
