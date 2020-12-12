@@ -44,5 +44,5 @@ Portland Unreal Engine 4 Developers groups collection of resources
   * http://www.worldofleveldesign.com/categories/udk/udk-lightmaps-03-how-to-fix-light-shadow-lightmap-bleeds-and-seams.php
 * Collection of free Sound FX (Link may expire)
   * https://sonniss.com/gameaudiogdc18/
-* Youtube video from Epic "100 UE4 Tips and Tricks | Unreal Fest Europe 2019"
+* Youtube video from Epic 100 UE4 Tips and Tricks Unreal Fest Europe 2019
   *https://www.youtube.com/watch?v=zX0gilGIpRQ&ab_channel=UnrealEngine
