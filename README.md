@@ -45,4 +45,4 @@ Portland Unreal Engine 4 Developers groups collection of resources
 * Collection of free Sound FX (Link may expire)
   * https://sonniss.com/gameaudiogdc18/
 * Youtube video from Epic 100 UE4 Tips and Tricks Unreal Fest Europe 2019
-  *https://www.youtube.com/watch?v=zX0gilGIpRQ&ab_channel=UnrealEngine
+  * https://www.youtube.com/watch?v=zX0gilGIpRQ&ab_channel=UnrealEngine
